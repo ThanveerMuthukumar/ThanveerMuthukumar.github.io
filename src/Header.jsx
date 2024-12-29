@@ -1,7 +1,9 @@
 function Header(){
     return(
         <header>
-            <h2>Thanveer Muthukumar</h2>
+            <div>
+                <h2>Thanveer Muthukumar</h2>
+            </div>
             <nav>
                 <ul>
                     <li><a href="#">Home</a></li>
@@ -9,7 +11,6 @@ function Header(){
                     <li><a href="#">Contact</a></li>
                 </ul>
             </nav>
-            <hr/>
         </header>
     );
 }
