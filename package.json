@@ -2,7 +2,7 @@
   "name": "personal-website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://thanveermuthukumar.github.io",
+  "homepage": "https://thanveermuthukumar.github.io/react-gh-pages",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
